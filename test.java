@@ -4,5 +4,6 @@ class Test{
 		System.out.println("Hi Git");
 		System.out.println("branch1");
 		add;
+		add2;
 	}
 }
